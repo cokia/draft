@@ -31,7 +31,7 @@
 ## 컴퓨터에 윈도우 7이 설치되어있는지 어떻게 확인하나요?
 윈도우 7은 정말로 '윈도우 7 만의' 특징을 뚜렷히 가지고 있는 운영체제라서, 약간의 테크닉만 있으면 누구나 알 수 있습니다.  
 
-![](/assets/index.md/Windows_7_SP1_screenshot.png)
+![](/assets/index.md/Windows_7_SP1_screenshot.png)  
 널리 알려진 기본 설정은 이 이미지와 같은데, 유리같은 작업 표시줄과 창, 그리고 윈도우 7을 상징하는 마크인 <img src="/assets/index.md/Windows_7_Start.png" width="10px" height="10px"> 로 이루어진 시작버튼이 가장 큰 특징이라고 할 수 있습니다.  
 
 하지만 설정에 따라 윈도우 7이라도 좀더 오래된, 20년 전의 컴퓨터처럼 보일 수 있거나, 이 특징을 제대로 이해하지 못하는 사람들도 있습니다.  
@@ -41,7 +41,7 @@
 1. 키보드의 <img src="/assets/common/windows.svg" width="10px" height="10px"> + R 키를 누릅니다.
 2. 이어서 나타나는 창에 `winver`를 입력하고 `Enter`키를 누릅니다.
 
-![](/assets/index.md/7-winver.jpg)
+![](/assets/index.md/7-winver.jpg)  
 자세한 내용은 다르더라도, 이와 비슷한 창이 나타날 것입니다. 로고 부분에 `Windows 7`이 포함되어 있다면 윈도우 7이 설치된 것이고, `Windows 10`이 포함되어 있다면 윈도우 10이 설치된 것입니다. 만약 `Windows 8`이 포함되어 있다면 지금 바로 이 페이지를 전부 읽고 윈도우 10을 설치할 것을 권장합니다.
 
 ## 그럼 윈도우 7 사용을 못하면, 이제 뭘 사용해야하죠?
