@@ -77,3 +77,8 @@
 자신의 컴퓨터를 제 3자에게 맡기는 것이 꺼려지거나 컴퓨터에 대한 몇가지 지식이 사전에 갖춰진 경우, 아래 주소를 통해 기술적인 조언을 얻으실 수 있습니다.
  * [Windows 10 미디어 디스크 만들기](https://ho9.me/works/technic/176)
  * [Windows 10 미디어 디스크로 Windows 10 클린설치하기](https://ho9.me/works/technic/187)
+
+
+## (footer)
+이 페이지는 몇가지 외부 미디어를 사용하고 있습니다. 자세한 내용은 [여기](/article/copyright.md)에서 확인하실 수 있습니다.  
+무언가 오류나 설명이 덜 된 부분이 있나요? [깃허브](https://github.com/no-more-7) 이슈와 PR은 언제나 환영입니다. 또한, [7@ho9.me](mailto:7@ho9.me)로 문의 메일을 보내실 수도 있습니다.  

@@ -1,0 +1,2 @@
+# 외부 미디어 정보
+ * [File:Windows 7 SP1 screenshot.png](https://en.wikipedia.org/wiki/File:Windows_7_SP1_screenshot.png) - Renamed user 2560613081, Wikipedia - [CC BY-SA 3.0](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
